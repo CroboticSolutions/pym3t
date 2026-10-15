@@ -1,0 +1,20 @@
+WARNING: Skipping /usr/lib/python3.12/dist-packages/pybind11-2.11.1.dist-info due to invalid metadata entry 'name'
+Processing /root/arms_ws/src/third_party/pym3t
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Installing backend dependencies: started
+  Installing backend dependencies: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Building wheels for collected packages: pym3t
+  Building wheel for pym3t (pyproject.toml): started
+  Building wheel for pym3t (pyproject.toml): still running...
+  Building wheel for pym3t (pyproject.toml): finished with status 'done'
+  Created wheel for pym3t: filename=pym3t-0.0.1-cp312-cp312-linux_x86_64.whl size=1402984 sha256=27db5a7caf93c7de8bdfdba46ea9918e2d9ecdea11ca7ad90f04a870a9d30c70
+  Stored in directory: /tmp/pip-ephem-wheel-cache-1jpkq_ji/wheels/11/94/32/c434da3d146436efdacf66fca58e279527f41671fc4b13afc5
+Successfully built pym3t
+WARNING: Skipping /usr/lib/python3.12/dist-packages/pybind11-2.11.1.dist-info due to invalid metadata entry 'name'
+Installing collected packages: pym3t
+Successfully installed pym3t-0.0.1
